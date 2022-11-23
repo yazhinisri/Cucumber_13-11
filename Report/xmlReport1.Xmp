@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="46.567">
+    <testcase classname="Title of your feature" name="FB Test" time="45.663">
+        <system-out><![CDATA[Given Launch Chrome and get into FB Home page...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
